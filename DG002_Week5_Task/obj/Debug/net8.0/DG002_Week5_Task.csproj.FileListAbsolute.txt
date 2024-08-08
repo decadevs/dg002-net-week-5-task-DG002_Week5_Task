@@ -1,0 +1,14 @@
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\bin\Debug\net8.0\DG002_Week5_Task.exe
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\bin\Debug\net8.0\DG002_Week5_Task.deps.json
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\bin\Debug\net8.0\DG002_Week5_Task.runtimeconfig.json
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\bin\Debug\net8.0\DG002_Week5_Task.dll
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\bin\Debug\net8.0\DG002_Week5_Task.pdb
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\obj\Debug\net8.0\DG002_Week5_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\obj\Debug\net8.0\DG002_Week5_Task.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\obj\Debug\net8.0\DG002_Week5_Task.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\obj\Debug\net8.0\DG002_Week5_Task.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\obj\Debug\net8.0\DG002_Week5_Task.dll
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\obj\Debug\net8.0\refint\DG002_Week5_Task.dll
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\obj\Debug\net8.0\DG002_Week5_Task.pdb
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\obj\Debug\net8.0\DG002_Week5_Task.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\DG002_Week5_Task\DG002_Week5_Task\obj\Debug\net8.0\ref\DG002_Week5_Task.dll
